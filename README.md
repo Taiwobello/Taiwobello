@@ -1,4 +1,5 @@
 ### Hi there 👋
+Welcome to my profile. I'm a Software Developer. I work mainly with JavaScript/TypeScript, and React.js.
 
 <!--
 **Taiwobello/Taiwobello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
